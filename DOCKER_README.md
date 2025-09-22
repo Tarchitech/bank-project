@@ -1,7 +1,7 @@
 # BlueBank - Modern Banking Application
 
 A full-stack banking application built with Next.js frontend and FastAPI backend, containerized for easy deployment.
-
+<br>
 ## Quick Start
 
 ```bash
